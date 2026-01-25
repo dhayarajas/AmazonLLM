@@ -1,0 +1,13 @@
+{"time":"2024-10-25T07:41:40.27713094Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-25T07:41:40.278588406Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/AR/Dhayanidhi_LLM_3/wandb/run-20241025_074140-gmm1sve7/logs/debug-core.log"}
+{"time":"2024-10-25T07:41:40.389621565Z","level":"INFO","msg":"created new stream","id":"gmm1sve7"}
+{"time":"2024-10-25T07:41:40.390139646Z","level":"INFO","msg":"stream: started","id":"gmm1sve7"}
+{"time":"2024-10-25T07:41:40.390254861Z","level":"INFO","msg":"sender: started","stream_id":"gmm1sve7"}
+{"time":"2024-10-25T07:41:40.390216049Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gmm1sve7"}}
+{"time":"2024-10-25T07:41:40.390246138Z","level":"INFO","msg":"handler: started","stream_id":{"value":"gmm1sve7"}}
+{"time":"2024-10-25T07:41:43.508218098Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T07:49:34.791011764Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T07:54:10.097853057Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T07:54:13.391854655Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T07:55:27.192990952Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T08:04:22.205143722Z","level":"INFO","msg":"Pausing system monitor"}
