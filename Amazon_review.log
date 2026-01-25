@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.27)  25 JAN 2026 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.27)  25 JAN 2026 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,197 +592,16 @@ Overfull \hbox (138.92679pt too wide) in paragraph at lines 57--57
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 
-Package natbib Warning: Citation `ref1' on page 2 undefined on input line 66.
-
-
-Package natbib Warning: Citation `ref2' on page 2 undefined on input line 66.
-
-
-Package natbib Warning: Citation `ref3' on page 2 undefined on input line 66.
-
-
-Package natbib Warning: Citation `ref4' on page 2 undefined on input line 68.
-
-
-Package natbib Warning: Citation `ref5' on page 2 undefined on input line 68.
-
-
-Package natbib Warning: Citation `ref6' on page 2 undefined on input line 68.
-
-
-Package natbib Warning: Citation `ref7' on page 2 undefined on input line 68.
-
-
-Package natbib Warning: Citation `ref8' on page 2 undefined on input line 70.
-
-
-Package natbib Warning: Citation `ref9' on page 2 undefined on input line 70.
-
-
-Package natbib Warning: Citation `ref10' on page 2 undefined on input line 70.
-
-
-Package natbib Warning: Citation `ref11' on page 2 undefined on input line 72.
-
-
-Package natbib Warning: Citation `ref12' on page 2 undefined on input line 72.
-
-
-Package natbib Warning: Citation `ref13' on page 2 undefined on input line 72.
-
-
-Package natbib Warning: Citation `ref14' on page 2 undefined on input line 72.
-
-
-Package natbib Warning: Citation `ref15' on page 2 undefined on input line 72.
-
-
-
 [2]
-
-Package natbib Warning: Citation `ref16' on page 3 undefined on input line 74.
-
-
-Package natbib Warning: Citation `ref17' on page 3 undefined on input line 74.
-
-
-Package natbib Warning: Citation `ref18' on page 3 undefined on input line 74.
-
-
-Package natbib Warning: Citation `ref19' on page 3 undefined on input line 76.
-
-
-Package natbib Warning: Citation `ref20' on page 3 undefined on input line 76.
-
-
 
 [3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
 
-Package natbib Warning: Citation `ref21' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref22' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref23' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref24' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref25' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref26' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref27' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref28' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref29' on page 4 undefined on input line 96.
-
-
-Package natbib Warning: Citation `ref30' on page 4 undefined on input line 96.
-
-
-
 [4]
-
-Package natbib Warning: Citation `ref31' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref32' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref33' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref34' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref35' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref36' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref37' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref38' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref39' on page 5 undefined on input line 98.
-
-
-Package natbib Warning: Citation `ref40' on page 5 undefined on input line 98.
-
-
 
 [5]
 
-Package natbib Warning: Citation `ref41' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref42' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref43' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref44' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref45' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref46' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref47' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref48' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref49' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref50' on page 6 undefined on input line 100.
-
-
-
-Package natbib Warning: Citation `ref22' on page 6 undefined on input line 105.
-
-
-
-Package natbib Warning: Citation `ref34' on page 6 undefined on input line 106.
-
-
-
-Package natbib Warning: Citation `ref40' on page 6 undefined on input line 107.
-
-
-
-
 [6]
-
-LaTeX Warning: Reference `fig:overall_process' on page 7 undefined on input lin
-e 112.
-
 
 LaTeX Warning: File `media/image1.png' not found on input line 116.
 
@@ -796,13 +615,7 @@ Type  H <return>  for immediate help.
                                                   
 l.116 ...cs[width=0.8\textwidth]{media/image1.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:overall_process' on page 7 undefined on input lin
-e 121.
-
+? 
 
 
 [7]
@@ -819,10 +632,6 @@ Overfull \hbox (5.74934pt too wide) detected at line 144
 
 [10]
 
-LaTeX Warning: Reference `fig:traditional_svd' on page 11 undefined on input li
-ne 228.
-
-
 LaTeX Warning: File `media/image2.png' not found on input line 232.
 
 
@@ -835,20 +644,10 @@ Type  H <return>  for immediate help.
                                                   
 l.232 ...cs[width=0.8\textwidth]{media/image2.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:traditional_svd' on page 11 undefined on input li
-ne 237.
-
+? 
 
 
 [11]
-
-LaTeX Warning: Reference `fig:proposed_model' on page 12 undefined on input lin
-e 241.
-
 
 LaTeX Warning: File `media/image3.png' not found on input line 245.
 
@@ -862,22 +661,10 @@ Type  H <return>  for immediate help.
                                                   
 l.245 ...cs[width=0.5\textwidth]{media/image3.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:proposed_model' on page 12 undefined on input lin
-e 250.
-
+? 
 
 
 [12]
-
-LaTeX Warning: Reference `eq:rating' on page 13 undefined on input line 252.
-
-
-LaTeX Warning: Reference `alg:svd' on page 13 undefined on input line 259.
-
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 262.
 
@@ -888,10 +675,6 @@ put line 262.
 
 [15]
 
-LaTeX Warning: Reference `alg:svd' on page 16 undefined on input line 353.
-
-
-
 [16]
 
 [17]
@@ -899,12 +682,6 @@ Overfull \hbox (0.72551pt too wide) in paragraph at lines 412--413
 \T1/cmr/m/n/12 from 560MB to ap-prox-i-mately 140MB, en-abling de-ploy-ment on 
 resource-constrained
  []
-
-
-LaTeX Warning: Reference `eq:mse' on page 18 undefined on input line 427.
-
-
-LaTeX Warning: Reference `eq:rmse' on page 18 undefined on input line 436.
 
 
 
@@ -922,13 +699,7 @@ Type  H <return>  for immediate help.
                                                   
 l.450 ...cs[width=0.8\textwidth]{media/image4.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:price_dist' on page 19 undefined on input line 45
-5.
-
+? 
 
 LaTeX Warning: File `media/image5.png' not found on input line 459.
 
@@ -942,16 +713,10 @@ Type  H <return>  for immediate help.
                                                   
 l.459 ...cs[width=0.8\textwidth]{media/image5.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 
 [19]
-
-LaTeX Warning: Reference `fig:rating_analysis' on page 20 undefined on input li
-ne 464.
-
 
 LaTeX Warning: File `media/image6.png' not found on input line 468.
 
@@ -965,16 +730,10 @@ Type  H <return>  for immediate help.
                                                   
 l.468 ...cs[width=0.8\textwidth]{media/image6.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 
 [20]
-
-LaTeX Warning: Reference `fig:categories' on page 21 undefined on input line 47
-3.
-
 
 LaTeX Warning: File `media/image7.png' not found on input line 493.
 
@@ -988,22 +747,10 @@ Type  H <return>  for immediate help.
                                                   
 l.493 ...cs[width=0.6\textwidth]{media/image7.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 
 [21]
-
-LaTeX Warning: Reference `tab:mse' on page 22 undefined on input line 498.
-
-
-LaTeX Warning: Reference `tab:mse' on page 22 undefined on input line 498.
-
-
-LaTeX Warning: Reference `fig:mse_perf' on page 22 undefined on input line 498.
-
-
 
 LaTeX Warning: File `media/image8.png' not found on input line 516.
 
@@ -1017,30 +764,10 @@ Type  H <return>  for immediate help.
                                                   
 l.516 ...cs[width=0.6\textwidth]{media/image8.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 
 [22]
-
-LaTeX Warning: Reference `tab:rmse' on page 23 undefined on input line 521.
-
-
-LaTeX Warning: Reference `tab:rmse' on page 23 undefined on input line 521.
-
-
-LaTeX Warning: Reference `fig:rmse_perf' on page 23 undefined on input line 521
-.
-
-
-Package natbib Warning: Citation `ref51' on page 23 undefined on input line 534
-.
-
-
-Package natbib Warning: Citation `ref52' on page 23 undefined on input line 535
-.
-
 
 LaTeX Warning: File `media/image9.png' not found on input line 545.
 
@@ -1054,17 +781,10 @@ Type  H <return>  for immediate help.
                                                   
 l.545 ...cs[width=0.7\textwidth]{media/image9.png}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 
 [23]
-
-LaTeX Warning: Reference `tab:comparative' on page 24 undefined on input line 5
-50.
-
-
 Overfull \hbox (2.41544pt too wide) in paragraph at lines 552--554
 []\T1/cmr/bx/n/12 Comparison with Light-GCN: \T1/cmr/m/n/12 Light-GCN is a stat
 e-of-the-art graph neu-ral network-
@@ -1073,11 +793,6 @@ e-of-the-art graph neu-ral network-
 
 
 [24]
-
-LaTeX Warning: Reference `fig:comparative' on page 25 undefined on input line 5
-65.
-
-
 
 [25]
 
@@ -1089,44 +804,22 @@ LaTeX Warning: Reference `fig:comparative' on page 25 undefined on input line 5
 
 [29]
 
-Package natbib Warning: There were undefined citations.
-
-
-
-[30] (./Amazon_review.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+[30] (./Amazon_review.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Amazon_review.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Amazon_review.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  C6A149A8240CA5E1B653EC163EE7FF89;5157.
+Package rerunfilecheck Info: File `Amazon_review.out' has not changed.
+(rerunfilecheck)             Checksum: C6A149A8240CA5E1B653EC163EE7FF89;5157.
  ) 
 Here is how much of TeX's memory you used:
- 15637 strings out of 473190
- 243373 string characters out of 5715799
- 656566 words of memory out of 5000000
- 38501 multiletter control sequences out of 15000+600000
+ 15663 strings out of 473190
+ 243790 string characters out of 5715799
+ 659259 words of memory out of 5000000
+ 38527 multiletter control sequences out of 15000+600000
  576973 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,3739b,683s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,3730b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
@@ -1148,10 +841,10 @@ e/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/tex
 mf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2025/texmf
 -dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on Amazon_review.pdf (30 pages, 438438 bytes).
+Output written on Amazon_review.pdf (30 pages, 443025 bytes).
 PDF statistics:
- 451 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
+ 606 PDF objects out of 1000 (max. 8388607)
+ 525 compressed objects within 6 object streams
  194 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
