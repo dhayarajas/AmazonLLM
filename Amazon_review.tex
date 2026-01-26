@@ -310,6 +310,15 @@ Where, the rating forecast among $u$ and $p$ is denoted by $r_{b}(u,p)$, that is
 
 The function of the proposed significant latent core factor SVD takes two inputs: $X$, which is the large matrix that needs to be analyzed, and $k$, which is the number of singular values to identify. Initially, the matrix dimensions of $X$ are estimated, and a random vector $v_{1}$ of size $n$ is created and normalized to ensure it has unit length. To store diagonal elements and orthonormal vectors, two empty lists are created: $val\_V$ and $a$. Additionally, $b$ stores another list for off-diagonal elements. The proposed significant latent core factor SVD runs for $k$ iterations. In each iteration, a new vector $w$ is evaluated by multiplying the matrix $X$ with the current vector $v_{j}$. To ensure that all vectors remain orthonormal, this vector is orthogonalized against all existing calculated vectors. This includes evaluating inner products and modifying $w$ by subtracting components in the directions of existing vectors. If the process is not in the initial iteration, an additional modification is created by subtracting a scaled version of the previous vector. The norm of $w$ is evaluated and stored in $b[j]$ after orthogonalization. If the norm is greater than zero, it is used to normalize $w$, producing the next $v_{j+1}$ orthonormal vector. Afterwards, the current vector is included in $val\_V$, and the diagonal element is evaluated as the inner product of $v_{j}$ with $X \cdot v_{j}$. The tridiagonal matrix $T$ is constructed from the $a$ diagonal elements and $b$ off-diagonal elements. This matrix captures the significant information required for eigenvalue decomposition. The eigenvalues $\lambda$ and eigenvectors $Z$ of $T$ are calculated. These eigenvalues correspond to squared singular values. The singular values are obtained by taking the square root of $\lambda$ and generating a diagonal matrix $\Sigma$. The left singular vectors $val\_U$ are calculated by transforming each orthonormal vector by $X$ and normalizing by the corresponding singular value. Finally, the function returns $val\_U$, $val\_\Sigma$, and $val\_V$, three matrices representing left singular vectors, singular values, and right singular vectors, respectively. Thus, the efficacy of SVD is enhanced by the proposed extended latent core factor calculation with significant eigenvalue retention, improving the significance of recommendations through leveraging the most significant latent factors that capture product characteristics and user behavior. This results in more accurate and personalized product recommendations for customers.
 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{images/SVDComparison.png}
+\caption{Singular Value Comparison: Traditional vs Proposed SVD showing threshold-based filtering}
+\label{fig:svd_comparison}
+\end{figure}
+
+Figure~\ref{fig:svd_comparison} illustrates the key difference between traditional SVD and the proposed significant latent core factor SVD. The figure shows how the proposed method applies threshold-based filtering ($\sigma_i \geq \theta \cdot \sigma_{\max}$) to retain only the most significant singular values while filtering out noise. This selective retention of singular values is the core innovation that enables better reconstruction quality for sparse recommendation matrices.
+
 \subsubsection{Mathematical Comparison: Traditional SVD vs. Proposed Significant Latent Core Factor SVD}
 
 To clearly distinguish the novelty of the proposed approach, we provide a detailed mathematical comparison between traditional SVD and the proposed significant latent core factor SVD.
@@ -490,12 +499,12 @@ Proposed SVD & 0.3246 \\
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.6\textwidth]{images/ModelPerformance.png}
-\caption{Performance Analysis of MSE}
-\label{fig:mse_perf}
+\includegraphics[width=0.8\textwidth]{images/proposedMetrics.png}
+\caption{Performance Analysis: MSE and RMSE Comparison}
+\label{fig:performance_metrics}
 \end{figure}
 
-Table~\ref{tab:mse} represent the performance analysis of MSE. The proposed research compare the performance of traditional SVD with proposed SVD. Where the proposed SVD achieves less error time with 0.3246 when compare to traditional SVD with 0.4585. The graphical representation of Table~\ref{tab:mse} is depicted in the Figure~\ref{fig:mse_perf}.
+Table~\ref{tab:mse} and Table~\ref{tab:rmse} present the performance analysis comparing traditional SVD with the proposed significant latent core factor SVD. The proposed method achieves superior performance with MSE of 0.3246 compared to traditional SVD's 0.4585, representing a 29.2\% improvement. Similarly, for RMSE, the proposed method achieves 0.5696 compared to traditional SVD's 0.6771, showing a 15.9\% improvement. Figure~\ref{fig:performance_metrics} provides a visual comparison of both MSE and RMSE metrics, clearly demonstrating the performance advantage of the proposed approach.
 
 \begin{table}[H]
 \centering
@@ -510,15 +519,6 @@ Proposed SVD & 0.5696 \\
 \bottomrule
 \end{tabular}
 \end{table}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=0.6\textwidth]{images/TraditionalSVDModelPerformance.png}
-\caption{Performance Analysis of RMSE}
-\label{fig:rmse_perf}
-\end{figure}
-
-Table~\ref{tab:rmse} represent the performance analysis of RMSE. The proposed research compare the performance of traditional SVD with proposed SVD. Where the proposed SVD achieves less error time with 0.5696 when compare to traditional SVD with 0.6771. The graphical representation of Table~\ref{tab:rmse} is depicted in the Figure~\ref{fig:rmse_perf}.
 
 \subsection{Comparative Analysis}
 
