@@ -1,0 +1,57 @@
+Reference Renumbering Map
+==================================================
+
+Old Ref → New Ref
+--------------------------------------------------
+ref1   → ref1
+ref2   → ref2
+ref3   → ref3
+ref4   → ref4
+ref5   → REMOVED
+ref6   → ref5
+ref7   → ref6
+ref8   → ref7
+ref9   → ref8
+ref10  → ref9
+ref11  → ref10
+ref12  → ref11
+ref13  → ref12
+ref14  → ref13
+ref15  → ref14
+ref16  → REMOVED
+ref17  → ref15
+ref18  → ref16
+ref19  → ref17
+ref20  → ref18
+ref21  → ref19
+ref22  → ref20
+ref23  → ref21
+ref24  → ref22
+ref25  → ref23
+ref26  → ref24
+ref27  → ref25
+ref28  → REMOVED
+ref29  → ref26
+ref30  → ref27
+ref31  → REMOVED
+ref32  → ref28
+ref33  → ref29
+ref34  → REMOVED
+ref35  → ref30
+ref36  → REMOVED
+ref37  → ref31
+ref38  → REMOVED
+ref39  → ref32
+ref40  → ref33
+ref41  → ref34
+ref42  → ref35
+ref43  → ref36
+ref44  → ref37
+ref45  → ref38
+ref46  → ref39
+ref47  → ref40
+ref48  → ref41
+ref49  → ref42
+ref50  → ref43
+ref51  → ref44
+ref52  → ref45
