@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.27)  27 JAN 2026 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.12.27)  28 JAN 2026 09:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,24 +471,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./Amazon_review.aux)
 \openout1 = `Amazon_review.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -520,7 +520,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 60.
+Package hyperref Info: Link coloring ON on input line 65.
 
 (./Amazon_review.out) (./Amazon_review.out)
 \@outlinefile=\write3
@@ -565,24 +565,29 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count334
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (51.18979pt too wide) in paragraph at lines 63--63
- [][] 
+Overfull \hbox (288.3235pt too wide) in paragraph at lines 68--68
+ []|[]| 
  []
 
 
-Overfull \hbox (51.18979pt too wide) in paragraph at lines 63--63
- [] 
+Overfull \hbox (288.3235pt too wide) in paragraph at lines 68--68
+ []|[]| 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 68--68
+ [][] 
  []
 
 
@@ -596,7 +601,7 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 
 [3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
-Overfull \hbox (2.13326pt too wide) in paragraph at lines 106--107
+Overfull \hbox (2.13326pt too wide) in paragraph at lines 111--112
 []\T1/cmr/m/n/12 For prod-uct rec-om-men-da-tion us-ing col-lab-o-ra-tive fil-t
 er-ing al-go-rithms, Iftikhar et al. [[]]
  []
@@ -604,18 +609,18 @@ er-ing al-go-rithms, Iftikhar et al. [[]]
 
 
 [4]
-<images/EntireProcessModel.png, id=190, 287.0725pt x 169.63374pt>
+<images/EntireProcessModel.png, id=193, 1541.76pt x 1027.84pt>
 File: images/EntireProcessModel.png Graphic file (type png)
 <use images/EntireProcessModel.png>
-Package pdftex.def Info: images/EntireProcessModel.png  used on input line 130.
+Package pdftex.def Info: images/EntireProcessModel.png  used on input line 135.
 
-(pdftex.def)             Requested size: 362.37569pt x 214.13565pt.
+(pdftex.def)             Requested size: 362.37569pt x 241.57379pt.
 
 
 [5]
 
-[6 <./images/EntireProcessModel.png>]
-Overfull \hbox (5.74934pt too wide) detected at line 158
+[6 <./images/EntireProcessModel.png (PNG copy)>]
+Overfull \hbox (5.74934pt too wide) detected at line 163
 [][][][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/1
 2 ; []; []; []; []; []\OT1/cmr/m/n/12 )
  []
@@ -625,31 +630,30 @@ Overfull \hbox (5.74934pt too wide) detected at line 158
 [7]
 
 [8]
-<images/TraditionalProductRecommendations.png, id=235, 795.97375pt x 351.3125pt
->
+<images/TraditionalProductRecommendations.png, id=236, 1541.76pt x 1027.84pt>
 File: images/TraditionalProductRecommendations.png Graphic file (type png)
 <use images/TraditionalProductRecommendations.png>
 Package pdftex.def Info: images/TraditionalProductRecommendations.png  used on 
-input line 246.
-(pdftex.def)             Requested size: 362.37569pt x 159.93855pt.
+input line 250.
+(pdftex.def)             Requested size: 362.37569pt x 241.57379pt.
 
 
-[9 <./images/TraditionalProductRecommendations.png>]
-<images/PipelineFlow.png, id=248, 1443.3925pt x 905.3825pt>
+[9 <./images/TraditionalProductRecommendations.png (PNG copy)>]
+<images/PipelineFlow.png, id=244, 1541.76pt x 1027.84pt>
 File: images/PipelineFlow.png Graphic file (type png)
 <use images/PipelineFlow.png>
-Package pdftex.def Info: images/PipelineFlow.png  used on input line 259.
-(pdftex.def)             Requested size: 226.48395pt x 142.05971pt.
+Package pdftex.def Info: images/PipelineFlow.png  used on input line 263.
+(pdftex.def)             Requested size: 226.48395pt x 150.98558pt.
 
 
-[10 <./images/PipelineFlow.png>]
+[10 <./images/PipelineFlow.png (PNG copy)>]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 276.
-<images/SVDComparison.png, id=258, 1140.1797pt x 417.7206pt>
+put line 280.
+<images/SVDComparison.png, id=253, 1435.2822pt x 568.0422pt>
 File: images/SVDComparison.png Graphic file (type png)
 <use images/SVDComparison.png>
-Package pdftex.def Info: images/SVDComparison.png  used on input line 329.
-(pdftex.def)             Requested size: 362.37569pt x 132.76186pt.
+Package pdftex.def Info: images/SVDComparison.png  used on input line 333.
+(pdftex.def)             Requested size: 362.37569pt x 143.41435pt.
 
 
 [11]
@@ -663,65 +667,65 @@ LaTeX Warning: Text page 12 contains only floats.
 [13 <./images/SVDComparison.png>]
 
 [14]
-
-[15]
-Overfull \hbox (0.72551pt too wide) in paragraph at lines 435--436
+Overfull \hbox (0.72551pt too wide) in paragraph at lines 439--440
 \T1/cmr/m/n/12 from 560MB to ap-prox-i-mately 140MB, en-abling de-ploy-ment on 
 resource-constrained
  []
 
-<images/PriceDistribution.png, id=342, 732.8178pt x 462.528pt>
+
+
+[15]
+<images/PriceDistribution.png, id=341, 1435.2822pt x 712.5822pt>
 File: images/PriceDistribution.png Graphic file (type png)
 <use images/PriceDistribution.png>
-Package pdftex.def Info: images/PriceDistribution.png  used on input line 473.
-(pdftex.def)             Requested size: 362.37569pt x 228.71562pt.
+Package pdftex.def Info: images/PriceDistribution.png  used on input line 477.
+(pdftex.def)             Requested size: 362.37569pt x 179.90656pt.
+<images/BestSeller.png, id=343, 1001.6622pt x 712.5822pt>
+File: images/BestSeller.png Graphic file (type png)
+<use images/BestSeller.png>
+Package pdftex.def Info: images/BestSeller.png  used on input line 486.
+(pdftex.def)             Requested size: 362.37569pt x 257.79068pt.
+<images/Top10Products.png, id=345, 1290.62175pt x 712.5822pt>
+File: images/Top10Products.png Graphic file (type png)
+<use images/Top10Products.png>
+Package pdftex.def Info: images/Top10Products.png  used on input line 495.
+(pdftex.def)             Requested size: 362.37569pt x 200.07619pt.
 
 
 [16]
-<images/BestSeller.png, id=355, 602.0091pt x 395.3169pt>
-File: images/BestSeller.png Graphic file (type png)
-<use images/BestSeller.png>
-Package pdftex.def Info: images/BestSeller.png  used on input line 482.
-(pdftex.def)             Requested size: 362.37569pt x 237.95802pt.
-
-
-[17 <./images/PriceDistribution.png> <./images/BestSeller.png>]
-<images/Top10Products.png, id=365, 821.7099pt x 395.3169pt>
-File: images/Top10Products.png Graphic file (type png)
-<use images/Top10Products.png>
-Package pdftex.def Info: images/Top10Products.png  used on input line 491.
-(pdftex.def)             Requested size: 362.37569pt x 174.33807pt.
-<images/proposedMetrics.png, id=367, 706.8006pt x 417.4797pt>
+<images/proposedMetrics.png, id=358, 706.8006pt x 417.4797pt>
 File: images/proposedMetrics.png Graphic file (type png)
 <use images/proposedMetrics.png>
-Package pdftex.def Info: images/proposedMetrics.png  used on input line 516.
+Package pdftex.def Info: images/proposedMetrics.png  used on input line 520.
 (pdftex.def)             Requested size: 362.37569pt x 214.04573pt.
 
 
+[17 <./images/PriceDistribution.png> <./images/BestSeller.png>]
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/ComparativeAnalysis.png, id=373, 995.8806pt x 562.2606pt>
+<images/ComparativeAnalysis.png, id=371, 1290.7422pt x 712.5822pt>
 File: images/ComparativeAnalysis.png Graphic file (type png)
 <use images/ComparativeAnalysis.png>
-Package pdftex.def Info: images/ComparativeAnalysis.png  used on input line 559
+Package pdftex.def Info: images/ComparativeAnalysis.png  used on input line 563
 .
-(pdftex.def)             Requested size: 317.07614pt x 179.00906pt.
+(pdftex.def)             Requested size: 317.07614pt x 175.04626pt.
 
 
-[18 <./images/Top10Products.png>]
-Overfull \hbox (2.41544pt too wide) in paragraph at lines 566--568
+[18 <./images/Top10Products.png> <./images/proposedMetrics.png>]
+Overfull \hbox (2.41544pt too wide) in paragraph at lines 570--572
 []\T1/cmr/bx/n/12 Comparison with Light-GCN: \T1/cmr/m/n/12 Light-GCN is a stat
 e-of-the-art graph neu-ral network-
  []
 
 
 
-[19 <./images/proposedMetrics.png>]
+[19 <./images/ComparativeAnalysis.png>]
 
-[20 <./images/ComparativeAnalysis.png>]
+[20]
 
 [21]
 
@@ -736,13 +740,13 @@ Package rerunfilecheck Info: File `Amazon_review.out' has not changed.
 (rerunfilecheck)             Checksum: C6A149A8240CA5E1B653EC163EE7FF89;5157.
  ) 
 Here is how much of TeX's memory you used:
- 15337 strings out of 473190
- 237516 string characters out of 5715799
- 657956 words of memory out of 5000000
+ 15336 strings out of 473190
+ 237509 string characters out of 5715799
+ 657015 words of memory out of 5000000
  38236 multiletter control sequences out of 15000+600000
  576660 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,2596b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,20n,79p,2596b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
@@ -763,10 +767,10 @@ e/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/
 /texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2025/t
 exmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/tex
 mf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on Amazon_review.pdf (23 pages, 1241382 bytes).
+Output written on Amazon_review.pdf (23 pages, 5357990 bytes).
 PDF statistics:
- 540 PDF objects out of 1000 (max. 8388607)
- 451 compressed objects within 5 object streams
- 160 named destinations out of 1000 (max. 500000)
+ 536 PDF objects out of 1000 (max. 8388607)
+ 450 compressed objects within 5 object streams
+ 159 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
